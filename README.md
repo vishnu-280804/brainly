@@ -1,4 +1,4 @@
-# 🧠 Brainly
+# Brainly
 
 **Brainly** is a full-stack web application that allows users to securely save and organize Twitter and YouTube links, attach personal notes, and share their saved content via a unique public link. It uses JWT authentication for secure user access.
 
